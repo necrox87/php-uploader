@@ -5,4 +5,4 @@ h1. Contenuti
 
 h2. Introduzione
 
-PhpUploader è un plugin php
+PhpUploader Ã¨ un plugin php
